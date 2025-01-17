@@ -1,0 +1,7 @@
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\bin\Debug\WebRequestANDWebResponseDemo.exe.config
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\bin\Debug\WebRequestANDWebResponseDemo.exe
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\bin\Debug\WebRequestANDWebResponseDemo.pdb
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\obj\Debug\WebRequestANDWebResponseDemo.csproj.AssemblyReference.cache
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\obj\Debug\WebRequestANDWebResponseDemo.csproj.CoreCompileInputs.cache
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\obj\Debug\WebRequestANDWebResponseDemo.exe
+D:\SPRING2025-ki7\prn222\code\SLOT1\WebRequestANDWebResponseDemo\WebRequestANDWebResponseDemo\obj\Debug\WebRequestANDWebResponseDemo.pdb

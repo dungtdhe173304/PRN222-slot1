@@ -1,0 +1,7 @@
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\bin\Debug\HttpClientClassDEMO1.exe.config
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\bin\Debug\HttpClientClassDEMO1.exe
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\bin\Debug\HttpClientClassDEMO1.pdb
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\obj\Debug\HttpClientClassDEMO1.csproj.AssemblyReference.cache
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\obj\Debug\HttpClientClassDEMO1.csproj.CoreCompileInputs.cache
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\obj\Debug\HttpClientClassDEMO1.exe
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\HttpClientClassDEMO1\HttpClientClassDEMO1\obj\Debug\HttpClientClassDEMO1.pdb

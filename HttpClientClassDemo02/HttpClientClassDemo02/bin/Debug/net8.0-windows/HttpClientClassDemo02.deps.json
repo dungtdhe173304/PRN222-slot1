@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HttpClientClassDemo02/1.0.0": {
+        "runtime": {
+          "HttpClientClassDemo02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HttpClientClassDemo02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\bin\Debug\net8.0\PROGRAM.exe
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\bin\Debug\net8.0\PROGRAM.deps.json
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\bin\Debug\net8.0\PROGRAM.runtimeconfig.json
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\bin\Debug\net8.0\PROGRAM.dll
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\bin\Debug\net8.0\PROGRAM.pdb
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.AssemblyInfoInputs.cache
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.AssemblyInfo.cs
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.csproj.CoreCompileInputs.cache
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.dll
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\refint\PROGRAM.dll
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.pdb
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\PROGRAM.genruntimeconfig.cache
+D:\SPRING2025-ki7\prn222\code\PROGRAM\PROGRAM\obj\Debug\net8.0\ref\PROGRAM.dll
